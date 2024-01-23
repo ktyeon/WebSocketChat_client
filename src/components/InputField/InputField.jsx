@@ -21,7 +21,7 @@ const InputField = ({message,setMessage,sendMessage}) => {
               type="submit"
               className="send-button"
             >
-              전송
+              Send
             </Button>
           </form>
         </div>
